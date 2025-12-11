@@ -1,6 +1,6 @@
 # ASCWGs CTF 2020 Qualifications – Challenge Files & Write-ups
 
-
+![ASCWGs](image.jpg)
 
 This repository contains all challenge files from **ASCWGs CTF 2020 Qualifications**, organized by category and challenge name.  
 Each challenge folder includes:
