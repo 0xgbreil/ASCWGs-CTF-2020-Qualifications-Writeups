@@ -1,0 +1,3 @@
+Medium Write-up:
+
+https://medium.com/@0xgbreil/ascwgs-ctf-2020-qualifications-fingerprint-forensics-challenge-writeup-0a3670127f21?postPublishedType=repub
