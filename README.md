@@ -1,11 +1,26 @@
-# ASCWGs CTF 2020 Qualifications – Challenge Files & Write-ups
+# ASCWGs CTF 2020 Qualifications – Forensics Write-ups
 
 ![ASCWGs](image.jpg)
 
-This repository contains all challenge files from **ASCWGs CTF 2020 Qualifications**, organized by category and challenge name.  
+This repository contains **Forensics challenge files and write-ups** from  
+**ASCWGs CTF 2020 Qualifications**, organized by challenge name.
+
+## Repository Structure
 Each challenge folder includes:
+- **The original challenge file(s)**
+- **writeup_link.txt** → contains a direct link to the full write-up published on Medium
 
-- **The original challenge file**
-- **A writeup_link.txt** containing a direct link to the full write-up on Medium
+## Focus
+This repository focuses **only on Digital Forensics challenges**, including:
+- File analysis  
+- Metadata & artifact examination  
+- Evidence extraction and interpretation  
 
-The goal of this repository is to provide a clean and organized archive of the CTF challenges, along with detailed external write-ups for educational and reference purposes.
+The aim is to provide a **clean, well-organized archive** of forensics challenges with detailed external write-ups for learning and reference.
+
+## Author
+
+- LinkedIn: **[Mohamed Gbreil](https://www.linkedin.com/in/0xgbreil/)**
+
+---
+
